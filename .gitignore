@@ -28,3 +28,6 @@ export/
 
 # macOS
 .DS_Store
+
+# 本機 OneNote 原始資料庫的備份（個人資料，絕不提交）
+onenote-data/

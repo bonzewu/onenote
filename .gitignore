@@ -1,0 +1,30 @@
+# Python 產生的檔案
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# 虛擬環境
+.venv
+
+# 測試與覆蓋率
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.ruff_cache/
+
+# 匯出結果（可能含個人筆記內容，絕不提交）
+onenote-export/
+export/
+*.one
+!tests/fixtures/*.one
+*.onetoc2
+
+# 環境變數
+.env
+
+# macOS
+.DS_Store
